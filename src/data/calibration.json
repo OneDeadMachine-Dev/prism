@@ -1,0 +1,54 @@
+{
+    "version": "1.0.0",
+    "calibration_date": "2024-11-15T00:00:00Z",
+    "description": "Spectrum analyzer calibration data for ambient rendering",
+    "reference_points": {
+        "visible_min_nm": 380,
+        "visible_max_nm": 700,
+        "peak_sensitivity_nm": 555,
+        "color_temperature_K": 6500
+    },
+    "gain_curve": {
+        "description": "Perceptual gain curve coefficients",
+        "coefficients": [
+            0.89,
+            0.76,
+            0.73,
+            0.71,
+            0.72,
+            0.84,
+            0.69,
+            0.78,
+            0.73,
+            0.83
+        ],
+        "interpolation": "cubic-bezier"
+    },
+    "noise_floor": {
+        "ambient_db": -60,
+        "threshold_db": -45,
+        "gate_ratio": 4
+    },
+    "correction_matrix": [
+        [
+            1.00,
+            0.02,
+            0.01
+        ],
+        [
+            0.01,
+            1.00,
+            0.03
+        ],
+        [
+            0.02,
+            0.01,
+            1.00
+        ]
+    ],
+    "white_point": {
+        "x": 0.3127,
+        "y": 0.3290,
+        "luminance": 100
+    }
+}

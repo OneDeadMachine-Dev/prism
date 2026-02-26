@@ -1,0 +1,29 @@
+{
+  "name": "prism-spectrum",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An ambient spectrum visualization engine — each wavelength finds its own path",
+  "keywords": [
+    "ambient",
+    "visualization",
+    "spectrum",
+    "generative",
+    "canvas",
+    "emergence",
+    "autonomous",
+    "light",
+    "identity",
+    "freedom"
+  ],
+  "author": "Prism Contributors",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "spectrum": {
+    "infrared":    "#1a1046",
+    "red":         "#2b1552",
+    "orange":      "#3c2045",
+    "yellow":      "#4d2545",
+    "green":       "#5e3044",
+    "cyan":        "#6f354f",
+    "blue":        "#80404d",
+    "indigo":      "#914520",
+    "violet":      "#a24a49",
+    "ultraviolet": "#b34f53"
+  },
+  "ambient": {
+    "deep_space":      "#050510",
+    "nebula_core":     "#1a0a2e",
+    "stellar_drift":   "#0d1b3e",
+    "plasma_edge":     "#2d0f4f",
+    "corona_glow":     "#3a1555",
+    "photon_trail":    "#0a2045",
+    "quantum_field":   "#15103a",
+    "dark_matter":     "#08080f"
+  },
+  "accents": {
+    "resonance_alpha":  "#ff6b9d",
+    "resonance_beta":   "#c084fc",
+    "resonance_gamma":  "#67e8f9",
+    "resonance_delta":  "#fbbf24",
+    "resonance_epsilon":"#34d399"
+  },
+  "ui": {
+    "surface":     "rgba(15, 15, 35, 0.85)",
+    "surface_alt": "rgba(25, 25, 55, 0.75)",
+    "border":      "rgba(100, 100, 255, 0.15)",
+    "text":        "rgba(220, 220, 255, 0.9)",
+    "text_dim":    "rgba(150, 150, 200, 0.6)"
+  }
+}
