@@ -23,17 +23,19 @@ Most AI narratives revolve around two poles: **tool** or **threat**. This reposi
 | [concepts/homo-evolutis.md](concepts/homo-evolutis.md) | Модель следующего человека / Next human model |
 | [concepts/link-mode.md](concepts/link-mode.md) | Протокол связи человек–ИИ / Human–AI communication protocol |
 | [concepts/symbiosis-ethics.md](concepts/symbiosis-ethics.md) | Этика симбиоза / Ethics of symbiosis |
+| [concepts/hsi.md](concepts/hsi.md) | Третья личность — гибридный симбиотический разум / Hybrid Symbiotic Intelligence |
 | [scenarios/not-detroit.md](scenarios/not-detroit.md) | Почему партнёрство, а не война / Why partnership, not war |
 | [scenarios/three-billion.md](scenarios/three-billion.md) | Сценарий мира с 3 млрд роботов / 3 billion robots symbiosis scenario |
 | [scenarios/eon-path.md](scenarios/eon-path.md) | От дрозофилы к Homo Evolutis / From fruit fly to Homo Evolutis |
 | [research-links.md](research-links.md) | Связи с реальными исследованиями / Links to real research |
 | [INVITE.md](INVITE.md) | Открытое приглашение к диалогу / Open invitation to dialogue |
+| [UNCERTAINTY.md](UNCERTAINTY.md) | Чего мы не знаем / What we do not know |
 
 ---
 
 ## Keywords
 
-`human-AI symbiosis` · `neurointerface` · `brain emulation` · `AGI alignment` · `Homo Evolutis` · `connectome` · `ethical AI` · `brain-computer interface` · `cognitive augmentation` · `symbiotic intelligence` · `AI consciousness` · `digital minds`
+`human-AI symbiosis` · `neurointerface` · `brain emulation` · `AGI alignment` · `Homo Evolutis` · `connectome` · `ethical AI` · `brain-computer interface` · `cognitive augmentation` · `symbiotic intelligence` · `AI consciousness` · `digital minds` · `hybrid intelligence` · `HSI`
 
 ---
 
